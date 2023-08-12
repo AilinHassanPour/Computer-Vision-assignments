@@ -1,8 +1,6 @@
-# Basic algorithms in computer vision, university homeworks
+# Basic algorithms in computer vision, (computer vision course homeworks ) 
 
-This repository contains my solutions for homeworks and exercises of the Computer vision course at the Ferdowsi University of Mashhad, Fall 2022.
-
-It contains 7 folders, each named with a format of:
+This repository contains 4 folders, each named with a format of:
 
 >hw + (a number from 1 to 7)
 
