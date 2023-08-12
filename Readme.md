@@ -10,7 +10,7 @@
 ![scipy](https://img.shields.io/badge/scipy--blue)
 ![pandas](https://img.shields.io/badge/pandas--lightpurple)
 
-![PyWavelets](https://img.shields.io/badge/PyWavelets--brightgreen)
+![PyWavelets](https://img.shields.io/badge/PyWavelets--yellow)
 ![skimage](https://img.shields.io/badge/skimage--orange)
 ![matplotlib](https://img.shields.io/badge/matplotlib--pink)
 ![Pillow](https://img.shields.io/badge/Pillow--Yellowgreen)
