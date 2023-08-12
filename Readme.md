@@ -8,6 +8,7 @@
 ![opencv](https://img.shields.io/badge/opencv--red)
 ![numpy](https://img.shields.io/badge/numpy-%20-lightgrey)
 ![scipy](https://img.shields.io/badge/scipy--blue)
+![pandas](https://img.shields.io/badge/pandas--purple)
 
 ![PyWavelets](https://img.shields.io/badge/PyWavelets--brightgreen)
 ![skimage](https://img.shields.io/badge/skimage--orange)
