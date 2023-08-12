@@ -12,6 +12,7 @@
 
 ![PyWavelets](https://img.shields.io/badge/PyWavelets--brightgreen)
 ![skimage](https://img.shields.io/badge/skimage--orange)
+![matplotlib](https://img.shields.io/badge/matplotlib--pink)
 
 
 
