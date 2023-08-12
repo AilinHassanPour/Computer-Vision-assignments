@@ -1,18 +1,17 @@
-# Basic algorithms in computer vision, (computer vision course homeworks ) 
+# Basic algorithms in computer vision, (computer vision course homeworks) 
 
-- **functions.py**: This file includes all the functions and methods implemneted by me, or codes from around the web. 
-- **main.ipynb**: This file is a kind of playground, which uses functions in `functions.py` and some other basic or third-party libraries in order to provide a solution to an exercise. In this file, first comes the problem and second, the solution code.
+- **HW.ipynb**: This file is a kind of playground, which uses some functions  and some other basic or third-party libraries in order to provide a solution to an exercise. In this file, first comes the problem, and second, the solution code.
 - **images**: Images provided by the homework designer in the formats of `BMP` or `JPG`.
 
 ## This project use:
 
-![opencv](https://img.shields.io/badge/opencv-4.6.0.66-red)
-![python](https://img.shields.io/badge/python-3.10.2-blue)
+![opencv](https://img.shields.io/badge/opencv--red)
+![python](https://img.shields.io/badge/python--blue)
 ![numpy](https://img.shields.io/badge/numpy-1.24.2%20-lightgrey)
-![scipy](https://img.shields.io/badge/scipy-1.8.0-blue)
+![scipy](https://img.shields.io/badge/scipy--blue)
 
-![PyWavelets](https://img.shields.io/badge/PyWavelets-1.4.1-brightgreen)
-![skimage](https://img.shields.io/badge/skimage-0.19.3-orange)
+![PyWavelets](https://img.shields.io/badge/PyWavelets--brightgreen)
+![skimage](https://img.shields.io/badge/skimage--orange)
 
 
 **To run this project, make sure to install the above list.**
