@@ -6,7 +6,6 @@
 ## This project use:
 
 ![opencv](https://img.shields.io/badge/opencv--red)
-![python](https://img.shields.io/badge/python--blue)
 ![numpy](https://img.shields.io/badge/numpy-%20-lightgrey)
 ![scipy](https://img.shields.io/badge/scipy--blue)
 
