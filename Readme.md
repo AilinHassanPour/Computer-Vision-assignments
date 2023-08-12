@@ -13,7 +13,7 @@
 ![PyWavelets](https://img.shields.io/badge/PyWavelets--yellow)
 ![skimage](https://img.shields.io/badge/skimage--orange)
 ![matplotlib](https://img.shields.io/badge/matplotlib--pink)
-![Pillow](https://img.shields.io/badge/Pillow--cyan)
+![Pillow](https://img.shields.io/badge/Pillow--darkcyan)
 
 
 
