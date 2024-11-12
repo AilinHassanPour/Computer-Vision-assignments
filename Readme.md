@@ -1,5 +1,4 @@
-# (computer vision course homeworks) 
-
+# computer vision course assignments
 - **HW.ipynb**: This file is a kind of playground, which uses some functions  and some other basic or third-party libraries in order to provide a solution to an exercise. In this file, first comes the problem, and second, the solution code.
 - **images**: Images provided by the homework designer in the formats of `BMP` or `JPG`.
 
@@ -18,3 +17,6 @@
 
 
 
+## License
+
+This project is licensed under the MIT License.
