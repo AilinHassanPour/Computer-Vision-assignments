@@ -2,6 +2,17 @@
 
 This repository includes a series of hands-on assignments aimed at enhancing your skills in computer vision. The exercises span various key topics, from basic image processing operations to more advanced methods like feature detection and frequency domain analysis. Each assignment is provided as a Jupyter Notebook, which presents a specific problem followed by the implementation of a solution.
 
+## Table of Contents
+
+1. [Folder Structure](#folder-structure)  
+   - [HW1: Image Fundamentals](#hw1-image-fundamentals)  
+   - [HW2: Contrast Adjustment and Filtering](#hw2-contrast-adjustment-and-filtering)  
+   - [HW3: Frequency and Wavelet Domain Processing](#hw3-frequency-and-wavelet-domain-processing)  
+   - [HW4: Color Space Conversion and Feature Detection](#hw4-color-space-conversion-and-feature-detection)
+2. [Dependencies](#this-project-uses)
+3. [Usage](#usage)
+4. [License](#license)
+
 ## Folder Structure
 
 - **HW1**: Image Fundamentals  
